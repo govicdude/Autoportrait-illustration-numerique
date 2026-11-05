@@ -1,6 +1,10 @@
 # Autoportrait-illustration-numerique
 Mes premier autoportraits
 
+Moodboard
+<img width="1920" height="1080" alt="moodboard_portrait_01" src="https://github.com/user-attachments/assets/f478eb47-268f-45c7-a293-f79919dd99e9" />
+Moodboard signature
+<img width="1920" height="1080" alt="moodboard_signature_01" src="https://github.com/user-attachments/assets/357a2ec7-2933-40b3-a68b-39e01fdbc9bf" />
 Signature
 <img width="1920" height="1080" alt="signature" src="https://github.com/user-attachments/assets/068f8213-8b33-4df2-880d-8d3fc91d31f1" />
 Autoportrait #1
